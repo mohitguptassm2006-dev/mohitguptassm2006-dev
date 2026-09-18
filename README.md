@@ -25,40 +25,31 @@ I enjoy building responsive web applications, solving programming problems, lear
 
 ### 🌐 Frontend
 
-* HTML5
-* CSS3
-* JavaScript
-* React.js
-* Responsive Web Design
+* HTML
+* CSS
+* Java
 
 ### ⚙️ Backend
-
-* Node.js
-* Express.js
 * Python
-* REST APIs
 
 ### 🗄️ Database
 
 * MySQL
-* MongoDB
 * SQL
 
 ### 💻 Programming
 
 * C++
 * Python
-* JavaScript
+* Java
 * Dart
 
 ### 🔧 Tools & Platforms
 
-* Git
 * GitHub
 * VS Code
 * Postman
 * Power BI
-* Jupyter Notebook
 
 ---
 
@@ -133,15 +124,11 @@ Regularly solving programming problems using **C++** and practicing problem-solv
 ```text
 HTML + CSS
      ↓
-JavaScript
+   Java
      ↓
-React.js
+   MySQL
      ↓
-Node.js + Express.js
-     ↓
-MongoDB / MySQL
-     ↓
-REST APIs
+ REST APIs
      ↓
 Authentication
      ↓
